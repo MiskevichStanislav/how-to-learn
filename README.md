@@ -14,3 +14,6 @@
 - GitHub Desktop
 - CodePen
 - Validation Servise
+
+
+Ссылка на проект https://miskevichstanislav.github.io/how-to-learn/
